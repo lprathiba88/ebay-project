@@ -1,8 +1,10 @@
-### Advanced-Project
+### Ebay-Project
 
-### April 20, 2016
+### April 28, 2016
 
-An advanced application that we will be using for Selenium automation testing
+### basic-Auto-Project
+
+An advanced application that we will be using for Selenium automation testing.
 
 * Git
 * Java
